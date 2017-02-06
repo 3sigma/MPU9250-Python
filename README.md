@@ -1,18 +1,13 @@
-# FaBo9AXIS-MPU9250-Python
+# MPU9250-Python
 
-## How to install.
+## Installation
 
-```
-pip install FaBo9Axis_MPU9250
-```
+Placer le fichier mpu9250.py dans le répertoire des scripts Python devant utiliser ce module.
 
-## FaBo 9Axis I2C Brick
-
-　[#202 9AXIS I2C Brick](http://fabo.io/202.html)
 
 ## MPU9250
 
-　MPU9250 is 9-Axis sensor.
+　MPU9250 est une IMU 9 axes
 
 ### MPU-9250 Datasheet
 
@@ -20,6 +15,4 @@ pip install FaBo9Axis_MPU9250
 
 　[MPU9250 Register map](http://43zrtwysvxb2gf29r5o0athu.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/MPU-9250-Register-Map.pdf)
 
-## Releases
 
-- 1.0.0 Initial release.
