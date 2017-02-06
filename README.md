@@ -5,6 +5,11 @@
 Placer le fichier mpu9250.py dans le répertoire des scripts Python devant utiliser ce module.
 
 
+## Utilisation
+
+Voir un exemple dans le fichier read9axis.py.
+
+
 ## MPU9250
 
 　MPU9250 est une IMU 9 axes
